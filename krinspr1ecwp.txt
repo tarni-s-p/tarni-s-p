@@ -1,0 +1,34 @@
+
+1.Define resistor, capacitor and inductor.
+->Resistors, capacitors, and inductors are the three fundamental passive circuit elements used in electric circuits. Together, they constitute the three fundamental building blocks of classical electrical engineering. Resistors are components that resist the flow of electric current
+
+2. List out types of resistors and explain one liner resistor and one non-liner resistor in detail.
+->There are numerous types of resistors that are available and can be used in electronic circuits. These different types of resistors have different properties depending upon their manufacture and construction. There are different types of resistors available for various applications. The resistors are available in different shapes, size, and materials. Normally resistors can be classified into two types namely linear resistor and non-linear resistor
+  Linear Resistors
+The resistors whose value changes with the applied temperature and voltage, are called linear resistors. Most types of resistors are linear devices that produce a voltage drop across themselves when a current flows through them There are two basic types of resistors with linear properties namely fixed resistors and variable resistors.
+  Fixed resistors
+Fixed resistors are resistors with a specific value. Fixed resistors one of the most widely used types of resistor. Fixed resistors are used in electronics circuits to set the correct conditions in a circuit.
+
+3. Write down the application of capacitors.
+->Capacitors have many uses in electronic and electrical systems. They are so ubiquitous that it is rare that an electrical product does not include at least one for some purpose.
+
+4. What is the function of inductor? Explain any one inductor in detail.
+->An inductor is a passive component that is used in most power electronic circuits to store energy in the form of magnetic energy when electricity is applied to it. One of the key properties of an inductor is that it impedes or opposes any change in the amount of current flowing through it.
+
+5. What is PCB? List out different types of PCBs.
+->The different types of PCBs available are
+  Single-Sided PCBs.
+  Double-Sided PCBs.
+  Multilayer PCBs.
+  Rigid PCBs.
+  Flex PCBs.
+  Rigid-Flex PCBs.
+  A printed circuit board (PCB) is a thin board made from fiberglass, composite epoxy, or other laminate materials.
+
+6. What is diode? Write down application of diodes.
+->Diode as a Rectifier
+The most common and important application of a diode is the rectification of AC power to DC power. Using diodes, we can construct different types of rectifier circuits. The basic types of these rectifier circuits are half wave, full wave center tapped and full bridge rectifiers.
+
+7. Explain PNP transistor in detail.
+->The PNP transistor is a type of transistor in which one n-type material is doped with two p-type materials. It is a device that is controlled by the current. Both the emitter and collector currents were controlled by the small amount of base current. Two crystal diodes are connected back-to-back in the PNP transistor.
+
